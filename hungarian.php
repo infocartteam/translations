@@ -1191,7 +1191,7 @@
     ),
     'Admin: Guest Users' => 
     array (
-      'Enable guest user accounts' => 'Vendég felhasználók engedélyezése',
+      'Enable guest user accounts' => 'Vendég felhasználó engedélyezése',
     ),
   ),
 );
